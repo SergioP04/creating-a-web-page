@@ -1,0 +1,25 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.7;
+    margin: 20px;
+}
+.highlight {
+    color:blue;
+    font-weight: bold;
+}
+#profile-container {
+    margin-top: 20px;
+    text-align: center;
+}
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+nav il {
+    display: inline;
+    margin-right: 15px;
+}
+nav a {
+    text-decoration: none;
+    color: darkgreen
+}
